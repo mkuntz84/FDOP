@@ -217,7 +217,7 @@ Save all edits and close editing session.
 
 **3.	Importing Fire Data**
 
-- In FF+, From the Data Menu> import>Select from drop down menu ‘USFS’> Select ‘Raw Files’> Select your .raw file
+- In FF+, From the Data Menu> import>Select from drop down menu ‘CALFIRE’> Select ‘Generic File Import’> Select your .csv file
 MUST BE IN THIS ORDER!!!!
     - Region; Unit; Discovery Date; Fire Number; Acerage; Fire Name; Cause; Latitude; Longitude
 
